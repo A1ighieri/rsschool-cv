@@ -1,0 +1,9 @@
+.link-contact {
+    text-decoration: none;
+    color: black;
+}
+body {
+    display: block;
+    max-width: 1040px;
+    margin-left: 250px;
+}
